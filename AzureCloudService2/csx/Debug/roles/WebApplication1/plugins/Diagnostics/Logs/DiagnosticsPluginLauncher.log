@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Emulator config file set to C:\Users\Asierae\Documents\Visual Studio 2013\Projects\WebApplication1\AzureCloudService2\csx\Debug\roles\WebApplication1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] DiagnosticsStoreRootPath set to: C:\Users\Asierae\AppData\Local\dftmp\Resources\0d467a4b-5d00-416b-b38b-abccfc17ab23
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Loading config file: C:\Users\Asierae\Documents\Visual Studio 2013\Projects\WebApplication1\AzureCloudService2\csx\Debug\roles\WebApplication1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Config file to read: C:\Users\Asierae\Documents\Visual Studio 2013\Projects\WebApplication1\AzureCloudService2\csx\Debug\roles\WebApplication1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Emulator config file set to C:\Users\Asierae\Documents\Visual Studio 2013\Projects\WebApplication1\AzureCloudService2\csx\Debug\roles\WebApplication1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:33] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:34] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:34] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:35] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:35] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:35] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:35] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [07/04/2017 15:52:35] Resetting DiagnosticPlugin
